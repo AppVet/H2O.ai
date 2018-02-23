@@ -1,0 +1,15 @@
+H2O instructions for RockIT Lab CentOS
+Steve Quirolgico
+
+Dependencies:
+* Oracle JDK 1.8
+
+
+
+Follow instructions at:
+
+http://h2o-release.s3.amazonaws.com/h2o/rel-wolpert/2/index.html
+
+
+To run example, see example readme files in /docs.
+
