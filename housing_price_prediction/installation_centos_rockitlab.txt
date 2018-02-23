@@ -1,0 +1,14 @@
+H2O.ai instructions for RockIT Lab CentOS
+Steve Quirolgico
+
+Dependencies:
+* Oracle JDK 1.8
+
+
+
+Follow instructions 7 at:
+
+http://h2o-release.s3.amazonaws.com/h2o/rel-wolpert/2/index.html
+
+
+See example directories for specific instructions.
