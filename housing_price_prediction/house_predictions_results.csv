@@ -1,8 +1,0 @@
-"predict","sqft","lot_size_acres","stories","number_bedrooms","number_bathrooms","attached_garage","has_pool","has_kitchen_island","main_flooring_type","has_granite_counters","house_age_years","sale_price"
-311843.761883809,2728,0.43,2,4,3,"yes","no","no","carpet","yes",6,291000
-243570.8484297532,1978,0.52,1,3,3,"yes","no","yes","hardwood","yes",2,250000
-243570.8484297532,2249,0.53,1,3,3,"yes","no","yes","hardwood","yes",2,288000
-311843.761883809,3112,0.44,2,4,3,"yes","yes","no","carpet","no",7,321000
-243458.03186328593,2121,0.4,1,3,2,"yes","no","yes","tile","yes",3,245000
-292574.38460262003,2743,0.37,1,3,3,"yes","no","yes","hardwood","yes",4,299000
-251521.88378436747,2021,0.37,1,3,3,"yes","yes","no","carpet","no",6,232000
