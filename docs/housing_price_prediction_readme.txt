@@ -10,7 +10,7 @@ For housing price prediction demo:
 
   /home/rockitlabai/git/H2O.ai/housing_price_prediction/all_house_data_utf-8.csv (H2O does not support UTF-16!)
 
-  then select magnifying glass. Then select the training.csv AND testing.csv files.
+  then select magnifying glass. Then select the all_house_data_utf-8.csv file.
 
 * Edit first column name to remove garbled characters leaving 'sqft'.
 
